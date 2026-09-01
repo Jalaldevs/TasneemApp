@@ -1,0 +1,165 @@
+# Tasneem
+
+**An Islamic mobile application for Quran, Sunnah, Adhkar, and personal productivity.**
+
+Tasneem is an independent mobile application designed and developed by **Jalal Charraout**. The application brings essential Islamic resources together with personal tools such as bookmarks, notes, folders, and more.
+
+The application is currently available on Android, with additional features and a backend under active development.
+
+---
+
+## 📱 Download
+
+**Google Play:**
+[Download Tasneem on Google Play](PASTE_GOOGLE_PLAY_LINK_HERE)
+
+---
+
+## ✨ Features
+
+### 📖 Quran
+
+* Read the Quran in Arabic
+* Multiple translations
+* Offline Quran access
+* Surah and Ayah navigation
+* Audio recitation
+* Bookmarks
+
+### 📚 Sunnah
+
+* Browse and read Hadith
+* Search and filtering
+* Narrator-based filtering
+* Hadith authenticity information
+* Bookmarks
+
+### 🤲 Adhkar
+
+* Daily Adhkar
+* Organized collections
+* Easy-to-use reading interface
+* Offline access
+
+### 📝 Notes & Folders
+
+* Create personal folders
+* Create and manage notes
+* Organize notes by folder
+* Save Quran and Hadith references
+* Personal Islamic knowledge management
+
+### 🕌 Prayer & Reminders
+
+* Prayer times
+* Next prayer countdown
+* Islamic reminders
+* Notifications
+
+### 📱 Mobile Experience
+
+* Built for Android
+* Modern React Native interface
+* Offline functionality
+* Designed for a simple and focused Islamic experience
+
+---
+
+## 🖼️ Screenshots
+
+### Home
+
+<p align="center">   <img src="screenshots/home.png" width="250"> </p>
+
+### Quran
+
+<p align="center">   <img src="screenshots/quran.png" width="250"> </p>
+
+### Sunnah
+
+<p align="center">   <img src="screenshots/sunnah.png" width="250"> </p>
+
+### Adhkar
+
+<p align="center">   <img src="screenshots/adhkar.png" width="250"> </p>
+
+### Notes
+
+<p align="center">   <img src="screenshots/notes.png" width="250"> </p>
+
+---
+
+## 🛠️ Technology
+
+**Mobile**
+
+* React Native
+* Expo
+* JavaScript
+
+**Backend**
+
+* Java
+* Spring Boot
+* Spring Security
+* PostgreSQL
+* Redis
+* REST APIs
+
+**Development**
+
+* Git
+* GitHub
+* Docker
+
+> The Spring Boot backend is currently under active development and will progressively provide authentication, user data, notes, folders, bookmarks, subscriptions, and other application services.
+
+---
+
+## 👨‍💻 Development
+
+Tasneem is an **independent solo project** designed and developed by me from concept through deployment.
+
+I am responsible for the application's:
+
+* Product development
+* UI and UX
+* React Native development
+* Application architecture
+* API integration
+* Offline functionality
+* Data management
+* Deployment and publishing
+
+The project is continuously evolving, with a dedicated **Java/Spring Boot backend** currently being developed.
+
+---
+
+## 🔗 Project Links
+
+**Google Play:**
+[Download Tasneem](PASTE_GOOGLE_PLAY_LINK_HERE)
+
+**Backend:**
+Coming soon
+
+**Data Repository:**
+[TasneemData](https://github.com/Jalaldevs/TasneemData)
+
+---
+
+## 📌 Project Status
+
+**Mobile application:** Published and actively maintained
+
+**Backend:** In active development
+
+**Future development:** New features, backend services, performance improvements, and additional platform support.
+
+---
+
+## 📄 Source Code
+
+The source code for the mobile application is **not publicly available**.
+
+This repository serves as a public presentation of the project, including screenshots, features, technology information, and download links.
